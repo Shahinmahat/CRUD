@@ -87,7 +87,6 @@ function App() {
       <nav className="nav-container">
         <h2 className='app-title'>Welcome to Task Management App</h2>
         <ul>
-          
           {isLogin ? (
             <>
               <li>
